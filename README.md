@@ -27,11 +27,10 @@ Seja bem descritivo em cada commit, descreva as alterações que realizou e/ou p
 
 
 
-A few resources to get you started if this is your first Flutter project:
+Alguns links para te ajudar
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Criando seu primeiro app](https://flutter.dev/docs/get-started/codelab)
+- [Livro de Receitas](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+E nunca se esqueça dela:
+[documentação](https://flutter.dev/docs)
